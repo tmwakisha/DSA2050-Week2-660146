@@ -1,4 +1,4 @@
-# DSA2050 Week 2 Practical Lab
+# DSA2050 Week 2 - Practical Lab
 
 **Student:** Tamara Mwakisha  
 **Student ID:** 660146
