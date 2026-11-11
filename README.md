@@ -1,4 +1,4 @@
-# DSA 2050 Week 2 Practical Lab
+# DSA2050 Week 2 Practical Lab
 
 **Student:** Tamara Mwakisha  
 **Student ID:** 660146
@@ -16,4 +16,4 @@ Complete the practical on source inspection, SQL, key checks, joins, reconciliat
 2. `customers.csv`, `orders.csv`, and `regions.json` contain the source data.
 
 ## Run
-Open the notebook in Jupyter or VS Code. Restart the kernel and run all cells from top to bottom.
+Open the notebook in Jupyter or VS Code.
